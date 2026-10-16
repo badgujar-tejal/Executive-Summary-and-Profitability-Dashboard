@@ -22,4 +22,4 @@ Based on the analyzed dataset, the dashboard highlights key metrics regarding th
 
 
 ## 🖥️ Dashboard Preview
-![Executive-Summary-and-Profitability-Dashboard](Executive Summary and Profitability Dashboard Preview.png)
+![Executive-Summary-and-Profitability-Dashboard](Executive%20Summary%20and%20Profitability%20Dashboard%20Preview.png)
